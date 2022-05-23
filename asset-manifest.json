@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-qiserr/static/js/main.8e1bfe7d.chunk.js",
-    "main.js.map": "https://.github.io/csb-qiserr/static/js/main.8e1bfe7d.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-qiserr/static/js/runtime-main.8678319e.js",
-    "runtime-main.js.map": "https://.github.io/csb-qiserr/static/js/runtime-main.8678319e.js.map",
-    "static/js/2.200dcf12.chunk.js": "https://.github.io/csb-qiserr/static/js/2.200dcf12.chunk.js",
-    "static/js/2.200dcf12.chunk.js.map": "https://.github.io/csb-qiserr/static/js/2.200dcf12.chunk.js.map",
-    "index.html": "https://.github.io/csb-qiserr/index.html",
-    "static/js/2.200dcf12.chunk.js.LICENSE.txt": "https://.github.io/csb-qiserr/static/js/2.200dcf12.chunk.js.LICENSE.txt"
+    "main.js": "https://kumarsskanchan.github.io/csb-qiserr/static/js/main.cd0c3d76.chunk.js",
+    "main.js.map": "https://kumarsskanchan.github.io/csb-qiserr/static/js/main.cd0c3d76.chunk.js.map",
+    "runtime-main.js": "https://kumarsskanchan.github.io/csb-qiserr/static/js/runtime-main.4d7f02e1.js",
+    "runtime-main.js.map": "https://kumarsskanchan.github.io/csb-qiserr/static/js/runtime-main.4d7f02e1.js.map",
+    "static/js/2.200dcf12.chunk.js": "https://kumarsskanchan.github.io/csb-qiserr/static/js/2.200dcf12.chunk.js",
+    "static/js/2.200dcf12.chunk.js.map": "https://kumarsskanchan.github.io/csb-qiserr/static/js/2.200dcf12.chunk.js.map",
+    "index.html": "https://kumarsskanchan.github.io/csb-qiserr/index.html",
+    "static/js/2.200dcf12.chunk.js.LICENSE.txt": "https://kumarsskanchan.github.io/csb-qiserr/static/js/2.200dcf12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8678319e.js",
+    "static/js/runtime-main.4d7f02e1.js",
     "static/js/2.200dcf12.chunk.js",
-    "static/js/main.8e1bfe7d.chunk.js"
+    "static/js/main.cd0c3d76.chunk.js"
   ]
 }
